@@ -1,2 +1,2 @@
 # savgol
-# Customized python implementation OF savitzky golay filter for multidimensional points
+# Customized python implementation of savitzky golay filter for multidimensional data points
